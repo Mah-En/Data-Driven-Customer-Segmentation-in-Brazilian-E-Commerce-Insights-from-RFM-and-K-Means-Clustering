@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  1 JUN 2025 01:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  21 JUN 2025 23:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -560,11 +560,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--190
 \OT1/cmr/m/n/10 These fea-tures were ag-gre-gated into a sin-gle
  []
 
-<Feature-Correlation-Heatmap.png, id=32, 471.2004pt x 409.0482pt>
-File: Feature-Correlation-Heatmap.png Graphic file (type png)
-<use Feature-Correlation-Heatmap.png>
-Package pdftex.def Info: Feature-Correlation-Heatmap.png  used on input line 21
-2.
+<plots/Feature-Correlation-Heatmap.png, id=124, 471.2004pt x 409.0482pt>
+File: plots/Feature-Correlation-Heatmap.png Graphic file (type png)
+<use plots/Feature-Correlation-Heatmap.png>
+Package pdftex.def Info: plots/Feature-Correlation-Heatmap.png  used on input l
+ine 212.
 (pdftex.def)             Requested size: 236.84843pt x 205.60962pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
@@ -572,13 +572,15 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `fig:sales' on page 7 undefined on input line 217.
+Underfull \hbox (badness 6412) in paragraph at lines 217--218
+[]\OT1/cmr/m/n/10 Figure [][]I[][] presents a heatmap of the pair-
+ []
 
-[7 <./Feature-Correlation-Heatmap.png>]
-<customer_state.png, id=45, 410.4936pt x 298.4751pt>
-File: customer_state.png Graphic file (type png)
-<use customer_state.png>
-Package pdftex.def Info: customer_state.png  used on input line 281.
+[7 <./plots/Feature-Correlation-Heatmap.png>]
+<plots/customer_state.png, id=134, 410.4936pt x 298.4751pt>
+File: plots/customer_state.png Graphic file (type png)
+<use plots/customer_state.png>
+Package pdftex.def Info: plots/customer_state.png  used on input line 281.
 (pdftex.def)             Requested size: 236.84843pt x 172.21846pt.
 
 
@@ -586,12 +588,12 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 282.
 See the caption package documentation for explanation.
 
-[8 <./customer_state.png>]
-<Average Review Score Distribution.png, id=55, 463.9734pt x 328.8285pt>
-File: Average Review Score Distribution.png Graphic file (type png)
-<use Average Review Score Distribution.png>
-Package pdftex.def Info: Average Review Score Distribution.png  used on input l
-ine 302.
+[8 <./plots/customer_state.png>]
+<plots/Average Review Score Distribution.png, id=141, 463.9734pt x 328.8285pt>
+File: plots/Average Review Score Distribution.png Graphic file (type png)
+<use plots/Average Review Score Distribution.png>
+Package pdftex.def Info: plots/Average Review Score Distribution.png  used on i
+nput line 302.
 (pdftex.def)             Requested size: 236.84843pt x 167.86087pt.
 
 
@@ -599,34 +601,36 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 303.
 See the caption package documentation for explanation.
 
-<Average Review Score per Customer.png, id=56, 411.939pt x 290.5254pt>
-File: Average Review Score per Customer.png Graphic file (type png)
-<use Average Review Score per Customer.png>
-Package pdftex.def Info: Average Review Score per Customer.png  used on input l
-ine 321.
+<plots/Average Review Score per Customer.png, id=142, 411.939pt x 290.5254pt>
+File: plots/Average Review Score per Customer.png Graphic file (type png)
+<use plots/Average Review Score per Customer.png>
+Package pdftex.def Info: plots/Average Review Score per Customer.png  used on i
+nput line 321.
 (pdftex.def)             Requested size: 189.47946pt x 133.63pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 322.
 See the caption package documentation for explanation.
 
-<Distribution of Order Count per Customer.png, id=57, 411.939pt x 290.5254pt>
-File: Distribution of Order Count per Customer.png Graphic file (type png)
-<use Distribution of Order Count per Customer.png>
-Package pdftex.def Info: Distribution of Order Count per Customer.png  used on 
-input line 341.
+<plots/Distribution of Order Count per Customer.png, id=143, 411.939pt x 290.52
+54pt>
+File: plots/Distribution of Order Count per Customer.png Graphic file (type png
+)
+<use plots/Distribution of Order Count per Customer.png>
+Package pdftex.def Info: plots/Distribution of Order Count per Customer.png  us
+ed on input line 341.
 (pdftex.def)             Requested size: 189.47946pt x 133.63pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 342.
 See the caption package documentation for explanation.
 
-[9 <./Average Review Score Distribution.png> <./Average Review Score per Custom
-er.png> <./Distribution of Order Count per Customer.png>]
-<Payment Method Mix.png, id=68, 406.1574pt x 377.9721pt>
-File: Payment Method Mix.png Graphic file (type png)
-<use Payment Method Mix.png>
-Package pdftex.def Info: Payment Method Mix.png  used on input line 361.
+[9 <./plots/Average Review Score Distribution.png> <./plots/Average Review Scor
+e per Customer.png> <./plots/Distribution of Order Count per Customer.png>]
+<plots/Payment Method Mix.png, id=154, 406.1574pt x 377.9721pt>
+File: plots/Payment Method Mix.png Graphic file (type png)
+<use plots/Payment Method Mix.png>
+Package pdftex.def Info: plots/Payment Method Mix.png  used on input line 361.
 (pdftex.def)             Requested size: 189.47946pt x 176.32617pt.
 
 
@@ -634,45 +638,49 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 362.
 See the caption package documentation for explanation.
 
-<Top 10 Customer States.png, id=69, 425.6703pt x 334.6101pt>
-File: Top 10 Customer States.png Graphic file (type png)
-<use Top 10 Customer States.png>
-Package pdftex.def Info: Top 10 Customer States.png  used on input line 381.
+<plots/Top 10 Customer States.png, id=155, 425.6703pt x 334.6101pt>
+File: plots/Top 10 Customer States.png Graphic file (type png)
+<use plots/Top 10 Customer States.png>
+Package pdftex.def Info: plots/Top 10 Customer States.png  used on input line 3
+81.
 (pdftex.def)             Requested size: 189.47946pt x 148.94952pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 382.
 See the caption package documentation for explanation.
 
-<Distribution of Log Total Customer Spend.png, id=70, 523.9575pt x 290.5254pt>
-File: Distribution of Log Total Customer Spend.png Graphic file (type png)
-<use Distribution of Log Total Customer Spend.png>
-Package pdftex.def Info: Distribution of Log Total Customer Spend.png  used on 
-input line 402.
+<plots/Distribution of Log Total Customer Spend.png, id=156, 523.9575pt x 290.5
+254pt>
+File: plots/Distribution of Log Total Customer Spend.png Graphic file (type png
+)
+<use plots/Distribution of Log Total Customer Spend.png>
+Package pdftex.def Info: plots/Distribution of Log Total Customer Spend.png  us
+ed on input line 402.
 (pdftex.def)             Requested size: 189.47946pt x 105.0634pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 403.
 See the caption package documentation for explanation.
 
-<Recency (Days Since Last Purchase).png, id=71, 521.7894pt x 290.5254pt>
-File: Recency (Days Since Last Purchase).png Graphic file (type png)
-<use Recency (Days Since Last Purchase).png>
-Package pdftex.def Info: Recency (Days Since Last Purchase).png  used on input 
-line 422.
+<plots/Recency (Days Since Last Purchase).png, id=157, 521.7894pt x 290.5254pt>
+
+File: plots/Recency (Days Since Last Purchase).png Graphic file (type png)
+<use plots/Recency (Days Since Last Purchase).png>
+Package pdftex.def Info: plots/Recency (Days Since Last Purchase).png  used on 
+input line 422.
 (pdftex.def)             Requested size: 189.47946pt x 105.49783pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 423.
 See the caption package documentation for explanation.
 
-[10 <./Payment Method Mix.png> <./Top 10 Customer States.png> <./Distribution o
-f Log Total Customer Spend.png>]
-<Total Payment vs Review Score.png, id=82, 409.7709pt x 328.8285pt>
-File: Total Payment vs Review Score.png Graphic file (type png)
-<use Total Payment vs Review Score.png>
-Package pdftex.def Info: Total Payment vs Review Score.png  used on input line 
-442.
+[10 <./plots/Payment Method Mix.png> <./plots/Top 10 Customer States.png> <./pl
+ots/Distribution of Log Total Customer Spend.png>]
+<plots/Total Payment vs Review Score.png, id=168, 409.7709pt x 328.8285pt>
+File: plots/Total Payment vs Review Score.png Graphic file (type png)
+<use plots/Total Payment vs Review Score.png>
+Package pdftex.def Info: plots/Total Payment vs Review Score.png  used on input
+ line 442.
 (pdftex.def)             Requested size: 189.47946pt x 152.05069pt.
 
 
@@ -680,24 +688,24 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 443.
 See the caption package documentation for explanation.
 
-<Elbow Method for Optimal k.png, id=83, 418.4433pt x 290.5254pt>
-File: Elbow Method for Optimal k.png Graphic file (type png)
-<use Elbow Method for Optimal k.png>
-Package pdftex.def Info: Elbow Method for Optimal k.png  used on input line 461
-.
+<plots/Elbow Method for Optimal k.png, id=169, 418.4433pt x 290.5254pt>
+File: plots/Elbow Method for Optimal k.png Graphic file (type png)
+<use plots/Elbow Method for Optimal k.png>
+Package pdftex.def Info: plots/Elbow Method for Optimal k.png  used on input li
+ne 461.
 (pdftex.def)             Requested size: 165.79317pt x 115.1087pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 462.
 See the caption package documentation for explanation.
 
-[11 <./Recency (Days Since Last Purchase).png> <./Total Payment vs Review Score
-.png> <./Elbow Method for Optimal k.png>]
-<PCA Projection (Unclustered).png, id=96, 505.1673pt x 401.8212pt>
-File: PCA Projection (Unclustered).png Graphic file (type png)
-<use PCA Projection (Unclustered).png>
-Package pdftex.def Info: PCA Projection (Unclustered).png  used on input line 4
-82.
+[11 <./plots/Recency (Days Since Last Purchase).png> <./plots/Total Payment vs 
+Review Score.png> <./plots/Elbow Method for Optimal k.png>]
+<plots/PCA Projection (Unclustered).png, id=183, 505.1673pt x 401.8212pt>
+File: plots/PCA Projection (Unclustered).png Graphic file (type png)
+<use plots/PCA Projection (Unclustered).png>
+Package pdftex.def Info: plots/PCA Projection (Unclustered).png  used on input 
+line 482.
 (pdftex.def)             Requested size: 189.47946pt x 150.71323pt.
 
 
@@ -705,44 +713,47 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 483.
 See the caption package documentation for explanation.
 
-<Customer Segments Visualized with PCA.png, id=97, 505.1673pt x 401.8212pt>
-File: Customer Segments Visualized with PCA.png Graphic file (type png)
-<use Customer Segments Visualized with PCA.png>
-Package pdftex.def Info: Customer Segments Visualized with PCA.png  used on inp
-ut line 502.
+<plots/Customer Segments Visualized with PCA.png, id=184, 505.1673pt x 401.8212
+pt>
+File: plots/Customer Segments Visualized with PCA.png Graphic file (type png)
+<use plots/Customer Segments Visualized with PCA.png>
+Package pdftex.def Info: plots/Customer Segments Visualized with PCA.png  used 
+on input line 502.
 (pdftex.def)             Requested size: 189.47946pt x 150.71323pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 503.
 See the caption package documentation for explanation.
 
-<Hierarchical clustring.png, id=98, 544.1931pt x 440.1243pt>
-File: Hierarchical clustring.png Graphic file (type png)
-<use Hierarchical clustring.png>
-Package pdftex.def Info: Hierarchical clustring.png  used on input line 522.
+<plots/Hierarchical clustring.png, id=185, 544.1931pt x 440.1243pt>
+File: plots/Hierarchical clustring.png Graphic file (type png)
+<use plots/Hierarchical clustring.png>
+Package pdftex.def Info: plots/Hierarchical clustring.png  used on input line 5
+22.
 (pdftex.def)             Requested size: 189.47946pt x 153.23991pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 523.
 See the caption package documentation for explanation.
 
-<HDBSCAN with Membership Strength.png, id=99, 583.9416pt x 384.4764pt>
-File: HDBSCAN with Membership Strength.png Graphic file (type png)
-<use HDBSCAN with Membership Strength.png>
-Package pdftex.def Info: HDBSCAN with Membership Strength.png  used on input li
-ne 542.
+<plots/HDBSCAN with Membership Strength.png, id=186, 583.9416pt x 384.4764pt>
+File: plots/HDBSCAN with Membership Strength.png Graphic file (type png)
+<use plots/HDBSCAN with Membership Strength.png>
+Package pdftex.def Info: plots/HDBSCAN with Membership Strength.png  used on in
+put line 542.
 (pdftex.def)             Requested size: 201.3226pt x 132.55063pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 543.
 See the caption package documentation for explanation.
 
-[12 <./PCA Projection (Unclustered).png> <./Customer Segments Visualized with P
-CA.png> <./Hierarchical clustring.png>]
-<Recursive Clustering.png, id=110, 487.8225pt x 384.4764pt>
-File: Recursive Clustering.png Graphic file (type png)
-<use Recursive Clustering.png>
-Package pdftex.def Info: Recursive Clustering.png  used on input line 562.
+[12 <./plots/PCA Projection (Unclustered).png> <./plots/Customer Segments Visua
+lized with PCA.png> <./plots/Hierarchical clustring.png>]
+<plots/Recursive Clustering.png, id=197, 487.8225pt x 384.4764pt>
+File: plots/Recursive Clustering.png Graphic file (type png)
+<use plots/Recursive Clustering.png>
+Package pdftex.def Info: plots/Recursive Clustering.png  used on input line 562
+.
 (pdftex.def)             Requested size: 189.47946pt x 149.33505pt.
 
 
@@ -750,36 +761,37 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 563.
 See the caption package documentation for explanation.
 
-<output.png, id=111, 1072.4868pt x 855.6768pt>
-File: output.png Graphic file (type png)
-<use output.png>
-Package pdftex.def Info: output.png  used on input line 582.
+<plots/output.png, id=198, 1072.4868pt x 855.6768pt>
+File: plots/output.png Graphic file (type png)
+<use plots/output.png>
+Package pdftex.def Info: plots/output.png  used on input line 582.
 (pdftex.def)             Requested size: 225.00528pt x 179.51463pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 583.
 See the caption package documentation for explanation.
 
-<DBSCAN Clusters Visualized with UMAP (Sampled).png, id=112, 565.1514pt x 422.0
-568pt>
-File: DBSCAN Clusters Visualized with UMAP (Sampled).png Graphic file (type png
-)
-<use DBSCAN Clusters Visualized with UMAP (Sampled).png>
-Package pdftex.def Info: DBSCAN Clusters Visualized with UMAP (Sampled).png  us
-ed on input line 603.
+<plots/DBSCAN Clusters Visualized with UMAP (Sampled).png, id=199, 565.1514pt x
+ 422.0568pt>
+File: plots/DBSCAN Clusters Visualized with UMAP (Sampled).png Graphic file (ty
+pe png)
+<use plots/DBSCAN Clusters Visualized with UMAP (Sampled).png>
+Package pdftex.def Info: plots/DBSCAN Clusters Visualized with UMAP (Sampled).p
+ng  used on input line 603.
 (pdftex.def)             Requested size: 201.3226pt x 150.34962pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 604.
 See the caption package documentation for explanation.
 
-[13 <./HDBSCAN with Membership Strength.png> <./Recursive Clustering.png> <./ou
-tput.png>]
-<Spending Velocity by Enhanced Cluster.png, id=123, 522.5121pt x 290.5254pt>
-File: Spending Velocity by Enhanced Cluster.png Graphic file (type png)
-<use Spending Velocity by Enhanced Cluster.png>
-Package pdftex.def Info: Spending Velocity by Enhanced Cluster.png  used on inp
-ut line 622.
+[13 <./plots/HDBSCAN with Membership Strength.png> <./plots/Recursive Clusterin
+g.png> <./plots/output.png>]
+<plots/Spending Velocity by Enhanced Cluster.png, id=210, 522.5121pt x 290.5254
+pt>
+File: plots/Spending Velocity by Enhanced Cluster.png Graphic file (type png)
+<use plots/Spending Velocity by Enhanced Cluster.png>
+Package pdftex.def Info: plots/Spending Velocity by Enhanced Cluster.png  used 
+on input line 622.
 (pdftex.def)             Requested size: 189.47946pt x 105.35155pt.
 
 
@@ -787,54 +799,40 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 623.
 See the caption package documentation for explanation.
 
-<Hierarchical Clustering Dendrogram (truncated).png, id=124, 727.0362pt x 416.9
-979pt>
-File: Hierarchical Clustering Dendrogram (truncated).png Graphic file (type png
-)
-<use Hierarchical Clustering Dendrogram (truncated).png>
-Package pdftex.def Info: Hierarchical Clustering Dendrogram (truncated).png  us
-ed on input line 642.
+<plots/Hierarchical Clustering Dendrogram (truncated).png, id=211, 727.0362pt x
+ 416.9979pt>
+File: plots/Hierarchical Clustering Dendrogram (truncated).png Graphic file (ty
+pe png)
+<use plots/Hierarchical Clustering Dendrogram (truncated).png>
+Package pdftex.def Info: plots/Hierarchical Clustering Dendrogram (truncated).p
+ng  used on input line 642.
 (pdftex.def)             Requested size: 201.3226pt x 115.46695pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 643.
 See the caption package documentation for explanation.
 
-[14 <./DBSCAN Clusters Visualized with UMAP (Sampled).png> <./Spending Velocity
- by Enhanced Cluster.png> <./Hierarchical Clustering Dendrogram (truncated).png
->] [15]
+[14 <./plots/DBSCAN Clusters Visualized with UMAP (Sampled).png> <./plots/Spend
+ing Velocity by Enhanced Cluster.png> <./plots/Hierarchical Clustering Dendrogr
+am (truncated).png>] [15]
 
 [16] (./DataScience-Assignment-3-Report.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `DataScience-Assignment-3-Report.out' has 
-changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `DataScience-Assignment-3-Report.out
-':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  C8DE5E8E7A178435AA300967A79D7477;4591.
+Package rerunfilecheck Info: File `DataScience-Assignment-3-Report.out' has not
+ changed.
+(rerunfilecheck)             Checksum: C8DE5E8E7A178435AA300967A79D7477;4591.
  ) 
 Here is how much of TeX's memory you used:
- 13257 strings out of 473190
- 212322 string characters out of 5715801
- 631659 words of memory out of 5000000
- 36290 multiletter control sequences out of 15000+600000
+ 13283 strings out of 473190
+ 213549 string characters out of 5715801
+ 633033 words of memory out of 5000000
+ 36316 multiletter control sequences out of 15000+600000
  568500 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1220b,776s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1220b,779s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -846,11 +844,11 @@ cal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
 al/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/loca
 l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local
 /texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on DataScience-Assignment-3-Report.pdf (12 pages, 1624425 bytes)
+Output written on DataScience-Assignment-3-Report.pdf (12 pages, 1626354 bytes)
 .
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 146 compressed objects within 2 object streams
+ 302 PDF objects out of 1000 (max. 8388607)
+ 223 compressed objects within 3 object streams
  61 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 
