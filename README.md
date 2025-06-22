@@ -1,6 +1,6 @@
 # Data-Driven Customer Segmentation in Brazilian E-Commerce: Insights from RFM and K-Means Clustering
 
-## 📌 Overview
+## Overview
 This project analyzes a comprehensive Brazilian e-commerce dataset to uncover patterns in customer purchasing behavior, loyalty, and satisfaction. By integrating multiple data sources and engineering features like recency, frequency, monetary value (RFM), product diversity, and review sentiment, we segment customers using advanced clustering techniques. The findings provide actionable insights for targeted marketing, retention strategies, and enhanced customer experience.
 
 ---
@@ -122,7 +122,7 @@ This project analyzes a comprehensive Brazilian e-commerce dataset to uncover pa
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 1. **One-time buyers dominate**, highlighting retention opportunities.
 2. **High-value customers** (though few) drive revenue—focus on loyalty programs.
 3. **Regional concentration** in SP, RJ, and MG suggests targeted marketing.
@@ -131,7 +131,7 @@ This project analyzes a comprehensive Brazilian e-commerce dataset to uncover pa
 
 ---
 
-## 🛠️ Tools and Techniques
+##  Tools and Techniques
 - **Data Preprocessing:** Pandas for cleaning, merging, and feature engineering.
 - **Clustering:** K-Means, Hierarchical, DBSCAN, HDBSCAN.
 - **Visualization:** Matplotlib, Seaborn, PCA, UMAP.
@@ -139,14 +139,14 @@ This project analyzes a comprehensive Brazilian e-commerce dataset to uncover pa
 
 ---
 
-## 📚 References
+##  References
 1. [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 2. [From Data to Viz](https://www.data-to-viz.com/)  
 3. *Storytelling with Data* by Cole Nussbaumer Knaflic  
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 This project empowers e-commerce businesses to:
 - **Target high-value segments** with personalized strategies.
 - **Optimize regional efforts** in key states like SP, RJ, and MG.
